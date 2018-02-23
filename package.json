@@ -1,0 +1,9 @@
+{
+  "name": "readability",
+  "version": "0.0.0",
+  "description": "Functions to test content for reading level",
+  "main": "index.js",
+  "repository": "git@github.com:MobliMic/readability.git",
+  "author": "Michael Craddock <michael@moblimic.com>",
+  "license": "MIT"
+}
