@@ -2,8 +2,14 @@
   "name": "readability",
   "version": "0.0.0",
   "description": "Functions to test content for reading level",
-  "main": "index.js",
+  "main": "dist/bundle.js",
   "repository": "git@github.com:MobliMic/readability.git",
   "author": "Michael Craddock <michael@moblimic.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "automated-readability": "^1.0.2"
+  },
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
 }

@@ -1,2 +1,15 @@
 node_modules/
 
+# Logs
+logs
+*.log
+
+# OS generated files #
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# IDE #
+.idea/
+*.swp
